@@ -1,0 +1,2 @@
+This is My Test Program
+	g++ -g main.cpp -o test 
