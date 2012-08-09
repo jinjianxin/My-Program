@@ -1,4 +1,6 @@
 #include <iostream>
+#include <stdio.h>
+#include <string.h>
 
 using namespace std;
 
@@ -45,13 +47,44 @@ HowMany2 HowMany2::printf_object_count(HowMany2 h)
 	return h;
 }
 
+class TestInt
+{
+	public:
+		TestInt(char *name);
+		~TestInt();
+		TestInt(TestInt & b);
+	private:
+		char *cname;
+};
+
+TestInt::TestInt(char *name)
+{
+	cname = new char[100];
+	strcpy(cname,name);
+
+	cout<<"*************"<<cname<<endl;
+}
+
+TestInt::~TestInt()
+{
+	delete cname;
+	cname = NULL;
+}
+
+TestInt::TestInt(TestInt& b)
+{
+	cname = new char[100];
+	strcpy(cname,b.cname);
+	cout<<"============="<<cname<<endl;
+}
+
 int main()
 {/*
 	HowMany h;
 	cout<<HowMany::objectCount<<endl;
 	HowMany h2 = HowMany::printf_object_count(h);
 	cout<<HowMany::objectCount<<endl;*/
-
+/*
 	HowMany2 h3("id");
 	cout<<HowMany2::objectCount<<endl;
 	
@@ -60,7 +93,11 @@ int main()
 
 	HowMany2::printf_object_count(h4);
 	cout<<"******************************"<<endl;
+	*/
 
-	return 0;
-	
+	TestInt a("name");
+
+	TestInt b = a;
+
+	return 0;	
 }
