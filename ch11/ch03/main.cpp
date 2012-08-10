@@ -49,5 +49,8 @@ int main()
 	int j = (a.*call)(10);
 	cout<<j<<endl;
 
+	A *c = &a;
+	(c->*call)(10);
+	cout<<(c->*call)(10)<<endl;
 	return 0;
 }
