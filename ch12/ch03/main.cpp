@@ -59,7 +59,7 @@ class SmartPointer
 
 int main()
 {
-	const int size = 10;	
+/*	const int size = 10;	
 	Obj o[size];
 	ObjContainer oc;
 	
@@ -76,6 +76,6 @@ int main()
 		sp->g();
 		sp->f();
 	}while(sp++);
-
+*/
 	return 0;
 }
