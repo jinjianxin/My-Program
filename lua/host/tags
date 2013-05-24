@@ -1,0 +1,438 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+L	lauxlib.h	/^  lua_State *L;$/;"	m	struct:luaL_Buffer	access:public
+LUAI_BITSINT	luaconf.h	403;"	d
+LUAI_BITSINT	luaconf.h	406;"	d
+LUAI_DATA	luaconf.h	194;"	d
+LUAI_DATA	luaconf.h	199;"	d
+LUAI_DATA	luaconf.h	203;"	d
+LUAI_EXTRASPACE	luaconf.h	726;"	d
+LUAI_FUNC	luaconf.h	193;"	d
+LUAI_FUNC	luaconf.h	198;"	d
+LUAI_FUNC	luaconf.h	202;"	d
+LUAI_GCMUL	luaconf.h	324;"	d
+LUAI_GCPAUSE	luaconf.h	313;"	d
+LUAI_INT32	luaconf.h	426;"	d
+LUAI_INT32	luaconf.h	433;"	d
+LUAI_MAXCALLS	luaconf.h	446;"	d
+LUAI_MAXCCALLS	luaconf.h	479;"	d
+LUAI_MAXCSTACK	luaconf.h	457;"	d
+LUAI_MAXINT32	luaconf.h	427;"	d
+LUAI_MAXINT32	luaconf.h	434;"	d
+LUAI_MAXNUMBER2STR	luaconf.h	535;"	d
+LUAI_MAXUPVALUES	luaconf.h	493;"	d
+LUAI_MAXVARS	luaconf.h	486;"	d
+LUAI_MEM	luaconf.h	429;"	d
+LUAI_MEM	luaconf.h	436;"	d
+LUAI_THROW	luaconf.h	619;"	d
+LUAI_THROW	luaconf.h	626;"	d
+LUAI_THROW	luaconf.h	632;"	d
+LUAI_TRY	luaconf.h	620;"	d
+LUAI_TRY	luaconf.h	627;"	d
+LUAI_TRY	luaconf.h	633;"	d
+LUAI_UACNUMBER	luaconf.h	522;"	d
+LUAI_UINT32	luaconf.h	425;"	d
+LUAI_UINT32	luaconf.h	432;"	d
+LUAI_UMEM	luaconf.h	428;"	d
+LUAI_UMEM	luaconf.h	435;"	d
+LUAI_USER_ALIGNMENT_T	luaconf.h	606;"	d
+LUALIB_API	luaconf.h	180;"	d
+LUAL_BUFFERSIZE	luaconf.h	499;"	d
+LUA_ANSI	luaconf.h	28;"	d
+LUA_API	luaconf.h	164;"	d
+LUA_API	luaconf.h	166;"	d
+LUA_API	luaconf.h	172;"	d
+LUA_API	luaconf.h	174;"	d
+LUA_AUTHORS	lua.h	23;"	d
+LUA_CDIR	luaconf.h	103;"	d
+LUA_CDIR	luaconf.h	89;"	d
+LUA_CDIR2	luaconf.h	104;"	d
+LUA_CDIR3	luaconf.h	105;"	d
+LUA_COLIBNAME	lualib.h	18;"	d
+LUA_COMPAT_GETN	luaconf.h	333;"	d
+LUA_COMPAT_GFIND	luaconf.h	369;"	d
+LUA_COMPAT_LOADLIB	luaconf.h	340;"	d
+LUA_COMPAT_LSTR	luaconf.h	362;"	d
+LUA_COMPAT_MOD	luaconf.h	354;"	d
+LUA_COMPAT_OPENLIB	luaconf.h	377;"	d
+LUA_COMPAT_VARARG	luaconf.h	347;"	d
+LUA_COPYRIGHT	lua.h	22;"	d
+LUA_CPATH	luaconf.h	70;"	d
+LUA_CPATH_DEFAULT	luaconf.h	110;"	d
+LUA_CPATH_DEFAULT	luaconf.h	93;"	d
+LUA_DBLIBNAME	lualib.h	36;"	d
+LUA_DIRSEP	luaconf.h	121;"	d
+LUA_DIRSEP	luaconf.h	123;"	d
+LUA_DL_DLL	luaconf.h	716;"	d
+LUA_DL_DLOPEN	luaconf.h	712;"	d
+LUA_DL_DYLD	luaconf.h	44;"	d
+LUA_ENVIRONINDEX	lua.h	37;"	d
+LUA_ERRERR	lua.h	47;"	d
+LUA_ERRFILE	lauxlib.h	32;"	d
+LUA_ERRMEM	lua.h	46;"	d
+LUA_ERRRUN	lua.h	44;"	d
+LUA_ERRSYNTAX	lua.h	45;"	d
+LUA_EXECDIR	luaconf.h	141;"	d
+LUA_FILEHANDLE	lualib.h	15;"	d
+LUA_GCCOLLECT	lua.h	223;"	d
+LUA_GCCOUNT	lua.h	224;"	d
+LUA_GCCOUNTB	lua.h	225;"	d
+LUA_GCRESTART	lua.h	222;"	d
+LUA_GCSETPAUSE	lua.h	227;"	d
+LUA_GCSETSTEPMUL	lua.h	228;"	d
+LUA_GCSTEP	lua.h	226;"	d
+LUA_GCSTOP	lua.h	221;"	d
+LUA_GLOBALSINDEX	lua.h	38;"	d
+LUA_HOOKCALL	lua.h	311;"	d
+LUA_HOOKCOUNT	lua.h	314;"	d
+LUA_HOOKLINE	lua.h	313;"	d
+LUA_HOOKRET	lua.h	312;"	d
+LUA_HOOKTAILRET	lua.h	315;"	d
+LUA_IDSIZE	luaconf.h	221;"	d
+LUA_IGMARK	luaconf.h	142;"	d
+LUA_INIT	luaconf.h	71;"	d
+LUA_INTEGER	luaconf.h	150;"	d
+LUA_INTFRMLEN	luaconf.h	752;"	d
+LUA_INTFRMLEN	luaconf.h	757;"	d
+LUA_INTFRM_T	luaconf.h	753;"	d
+LUA_INTFRM_T	luaconf.h	758;"	d
+LUA_IOLIBNAME	lualib.h	24;"	d
+LUA_LDIR	luaconf.h	101;"	d
+LUA_LDIR	luaconf.h	88;"	d
+LUA_LDIR2	luaconf.h	102;"	d
+LUA_LOADLIBNAME	lualib.h	39;"	d
+LUA_MASKCALL	lua.h	321;"	d
+LUA_MASKCOUNT	lua.h	324;"	d
+LUA_MASKLINE	lua.h	323;"	d
+LUA_MASKRET	lua.h	322;"	d
+LUA_MATHLIBNAME	lualib.h	33;"	d
+LUA_MAXCAPTURES	luaconf.h	644;"	d
+LUA_MAXINPUT	luaconf.h	273;"	d
+LUA_MINSTACK	lua.h	87;"	d
+LUA_MULTRET	lua.h	30;"	d
+LUA_NOREF	lauxlib.h	159;"	d
+LUA_NUMBER	luaconf.h	516;"	d
+LUA_NUMBER_DOUBLE	luaconf.h	515;"	d
+LUA_NUMBER_FMT	luaconf.h	533;"	d
+LUA_NUMBER_SCAN	luaconf.h	532;"	d
+LUA_OSLIBNAME	lualib.h	27;"	d
+LUA_PATH	luaconf.h	69;"	d
+LUA_PATHSEP	luaconf.h	139;"	d
+LUA_PATH_DEFAULT	luaconf.h	106;"	d
+LUA_PATH_DEFAULT	luaconf.h	90;"	d
+LUA_PATH_MARK	luaconf.h	140;"	d
+LUA_PROGNAME	luaconf.h	265;"	d
+LUA_PROMPT	luaconf.h	256;"	d
+LUA_PROMPT2	luaconf.h	257;"	d
+LUA_QL	luaconf.h	212;"	d
+LUA_QS	luaconf.h	213;"	d
+LUA_REFNIL	lauxlib.h	160;"	d
+LUA_REGISTRYINDEX	lua.h	36;"	d
+LUA_RELEASE	lua.h	20;"	d
+LUA_ROOT	luaconf.h	99;"	d
+LUA_ROOT2	luaconf.h	100;"	d
+LUA_SIGNATURE	lua.h	27;"	d
+LUA_STRLIBNAME	lualib.h	30;"	d
+LUA_TABLIBNAME	lualib.h	21;"	d
+LUA_TBOOLEAN	lua.h	75;"	d
+LUA_TFUNCTION	lua.h	80;"	d
+LUA_TLIGHTUSERDATA	lua.h	76;"	d
+LUA_TMPNAMBUFSIZE	luaconf.h	659;"	d
+LUA_TMPNAMBUFSIZE	luaconf.h	667;"	d
+LUA_TNIL	lua.h	74;"	d
+LUA_TNONE	lua.h	72;"	d
+LUA_TNUMBER	lua.h	77;"	d
+LUA_TSTRING	lua.h	78;"	d
+LUA_TTABLE	lua.h	79;"	d
+LUA_TTHREAD	lua.h	82;"	d
+LUA_TUSERDATA	lua.h	81;"	d
+LUA_USE_DLOPEN	luaconf.h	38;"	d
+LUA_USE_ISATTY	luaconf.h	56;"	d
+LUA_USE_MKSTEMP	luaconf.h	55;"	d
+LUA_USE_POPEN	luaconf.h	57;"	d
+LUA_USE_POSIX	luaconf.h	37;"	d
+LUA_USE_POSIX	luaconf.h	43;"	d
+LUA_USE_READLINE	luaconf.h	39;"	d
+LUA_USE_ULONGJMP	luaconf.h	58;"	d
+LUA_VERSION	lua.h	19;"	d
+LUA_VERSION_NUM	lua.h	21;"	d
+LUA_WIN	luaconf.h	33;"	d
+LUA_YIELD	lua.h	43;"	d
+buffer	lauxlib.h	/^  char buffer[LUAL_BUFFERSIZE];$/;"	m	struct:luaL_Buffer	access:public
+currentline	lua.h	/^  int currentline;	\/* (l) *\/$/;"	m	struct:lua_Debug	access:public
+event	lua.h	/^  int event;$/;"	m	struct:lua_Debug	access:public
+func	lauxlib.h	/^  lua_CFunction func;$/;"	m	struct:luaL_Reg	access:public
+i_ci	lua.h	/^  int i_ci;  \/* active function *\/$/;"	m	struct:lua_Debug	access:public
+l_d	luaconf.h	/^union luai_Cast { double l_d; long l_l; };$/;"	m	union:luai_Cast	access:public
+l_l	luaconf.h	/^union luai_Cast { double l_d; long l_l; };$/;"	m	union:luai_Cast	access:public
+lastlinedefined	lua.h	/^  int lastlinedefined;	\/* (S) *\/$/;"	m	struct:lua_Debug	access:public
+lauxlib_h	lauxlib.h	9;"	d
+lconfig_h	luaconf.h	9;"	d
+linedefined	lua.h	/^  int linedefined;	\/* (S) *\/$/;"	m	struct:lua_Debug	access:public
+luaI_openlib	lauxlib.h	/^LUALIB_API void (luaI_openlib) (lua_State *L, const char *libname,$/;"	p	signature:(lua_State *L, const char *libname, const luaL_Reg *l, int nup)
+luaI_openlib	lauxlib.h	27;"	d
+luaL_Buffer	lauxlib.h	/^typedef struct luaL_Buffer {$/;"	s
+luaL_Buffer	lauxlib.h	/^} luaL_Buffer;$/;"	t	typeref:struct:luaL_Buffer
+luaL_Buffer::L	lauxlib.h	/^  lua_State *L;$/;"	m	struct:luaL_Buffer	access:public
+luaL_Buffer::buffer	lauxlib.h	/^  char buffer[LUAL_BUFFERSIZE];$/;"	m	struct:luaL_Buffer	access:public
+luaL_Buffer::lvl	lauxlib.h	/^  int lvl;  \/* number of strings in the stack (level) *\/$/;"	m	struct:luaL_Buffer	access:public
+luaL_Buffer::p	lauxlib.h	/^  char *p;			\/* current position in buffer *\/$/;"	m	struct:luaL_Buffer	access:public
+luaL_Reg	lauxlib.h	/^typedef struct luaL_Reg {$/;"	s
+luaL_Reg	lauxlib.h	/^} luaL_Reg;$/;"	t	typeref:struct:luaL_Reg
+luaL_Reg::func	lauxlib.h	/^  lua_CFunction func;$/;"	m	struct:luaL_Reg	access:public
+luaL_Reg::name	lauxlib.h	/^  const char *name;$/;"	m	struct:luaL_Reg	access:public
+luaL_addchar	lauxlib.h	136;"	d
+luaL_addlstring	lauxlib.h	/^LUALIB_API void (luaL_addlstring) (luaL_Buffer *B, const char *s, size_t l);$/;"	p	signature:(luaL_Buffer *B, const char *s, size_t l)
+luaL_addsize	lauxlib.h	143;"	d
+luaL_addstring	lauxlib.h	/^LUALIB_API void (luaL_addstring) (luaL_Buffer *B, const char *s);$/;"	p	signature:(luaL_Buffer *B, const char *s)
+luaL_addvalue	lauxlib.h	/^LUALIB_API void (luaL_addvalue) (luaL_Buffer *B);$/;"	p	signature:(luaL_Buffer *B)
+luaL_argcheck	lauxlib.h	100;"	d
+luaL_argerror	lauxlib.h	/^LUALIB_API int (luaL_argerror) (lua_State *L, int numarg, const char *extramsg);$/;"	p	signature:(lua_State *L, int numarg, const char *extramsg)
+luaL_buffinit	lauxlib.h	/^LUALIB_API void (luaL_buffinit) (lua_State *L, luaL_Buffer *B);$/;"	p	signature:(lua_State *L, luaL_Buffer *B)
+luaL_callmeta	lauxlib.h	/^LUALIB_API int (luaL_callmeta) (lua_State *L, int obj, const char *e);$/;"	p	signature:(lua_State *L, int obj, const char *e)
+luaL_checkany	lauxlib.h	/^LUALIB_API void (luaL_checkany) (lua_State *L, int narg);$/;"	p	signature:(lua_State *L, int narg)
+luaL_checkint	lauxlib.h	104;"	d
+luaL_checkinteger	lauxlib.h	/^LUALIB_API lua_Integer (luaL_checkinteger) (lua_State *L, int numArg);$/;"	p	signature:(lua_State *L, int numArg)
+luaL_checklong	lauxlib.h	106;"	d
+luaL_checklstring	lauxlib.h	/^LUALIB_API const char *(luaL_checklstring) (lua_State *L, int numArg,$/;"	p	signature:(lua_State *L, int numArg, size_t *l)
+luaL_checknumber	lauxlib.h	/^LUALIB_API lua_Number (luaL_checknumber) (lua_State *L, int numArg);$/;"	p	signature:(lua_State *L, int numArg)
+luaL_checkoption	lauxlib.h	/^LUALIB_API int (luaL_checkoption) (lua_State *L, int narg, const char *def,$/;"	p	signature:(lua_State *L, int narg, const char *def, const char *const lst[])
+luaL_checkstack	lauxlib.h	/^LUALIB_API void (luaL_checkstack) (lua_State *L, int sz, const char *msg);$/;"	p	signature:(lua_State *L, int sz, const char *msg)
+luaL_checkstring	lauxlib.h	102;"	d
+luaL_checktype	lauxlib.h	/^LUALIB_API void (luaL_checktype) (lua_State *L, int narg, int t);$/;"	p	signature:(lua_State *L, int narg, int t)
+luaL_checkudata	lauxlib.h	/^LUALIB_API void *(luaL_checkudata) (lua_State *L, int ud, const char *tname);$/;"	p	signature:(lua_State *L, int ud, const char *tname)
+luaL_dofile	lauxlib.h	111;"	d
+luaL_dostring	lauxlib.h	114;"	d
+luaL_error	lauxlib.h	/^LUALIB_API int (luaL_error) (lua_State *L, const char *fmt, ...);$/;"	p	signature:(lua_State *L, const char *fmt, ...)
+luaL_findtable	lauxlib.h	/^LUALIB_API const char *(luaL_findtable) (lua_State *L, int idx,$/;"	p	signature:(lua_State *L, int idx, const char *fname, int szhint)
+luaL_getmetafield	lauxlib.h	/^LUALIB_API int (luaL_getmetafield) (lua_State *L, int obj, const char *e);$/;"	p	signature:(lua_State *L, int obj, const char *e)
+luaL_getmetatable	lauxlib.h	117;"	d
+luaL_getn	lauxlib.h	/^LUALIB_API int (luaL_getn) (lua_State *L, int t);$/;"	p	signature:(lua_State *L, int t)
+luaL_getn	lauxlib.h	22;"	d
+luaL_gsub	lauxlib.h	/^LUALIB_API const char *(luaL_gsub) (lua_State *L, const char *s, const char *p,$/;"	p	signature:(lua_State *L, const char *s, const char *p, const char *r)
+luaL_loadbuffer	lauxlib.h	/^LUALIB_API int (luaL_loadbuffer) (lua_State *L, const char *buff, size_t sz,$/;"	p	signature:(lua_State *L, const char *buff, size_t sz, const char *name)
+luaL_loadfile	lauxlib.h	/^LUALIB_API int (luaL_loadfile) (lua_State *L, const char *filename);$/;"	p	signature:(lua_State *L, const char *filename)
+luaL_loadstring	lauxlib.h	/^LUALIB_API int (luaL_loadstring) (lua_State *L, const char *s);$/;"	p	signature:(lua_State *L, const char *s)
+luaL_newmetatable	lauxlib.h	/^LUALIB_API int   (luaL_newmetatable) (lua_State *L, const char *tname);$/;"	p	signature:(lua_State *L, const char *tname)
+luaL_newstate	lauxlib.h	/^LUALIB_API lua_State *(luaL_newstate) (void);$/;"	p	signature:(void)
+luaL_openlibs	lualib.h	/^LUALIB_API void (luaL_openlibs) (lua_State *L); $/;"	p	signature:(lua_State *L)
+luaL_opt	lauxlib.h	119;"	d
+luaL_optint	lauxlib.h	105;"	d
+luaL_optinteger	lauxlib.h	/^LUALIB_API lua_Integer (luaL_optinteger) (lua_State *L, int nArg,$/;"	p	signature:(lua_State *L, int nArg, lua_Integer def)
+luaL_optlong	lauxlib.h	107;"	d
+luaL_optlstring	lauxlib.h	/^LUALIB_API const char *(luaL_optlstring) (lua_State *L, int numArg,$/;"	p	signature:(lua_State *L, int numArg, const char *def, size_t *l)
+luaL_optnumber	lauxlib.h	/^LUALIB_API lua_Number (luaL_optnumber) (lua_State *L, int nArg, lua_Number def);$/;"	p	signature:(lua_State *L, int nArg, lua_Number def)
+luaL_optstring	lauxlib.h	103;"	d
+luaL_prepbuffer	lauxlib.h	/^LUALIB_API char *(luaL_prepbuffer) (luaL_Buffer *B);$/;"	p	signature:(luaL_Buffer *B)
+luaL_pushresult	lauxlib.h	/^LUALIB_API void (luaL_pushresult) (luaL_Buffer *B);$/;"	p	signature:(luaL_Buffer *B)
+luaL_putchar	lauxlib.h	141;"	d
+luaL_ref	lauxlib.h	/^LUALIB_API int (luaL_ref) (lua_State *L, int t);$/;"	p	signature:(lua_State *L, int t)
+luaL_reg	lauxlib.h	170;"	d
+luaL_register	lauxlib.h	/^LUALIB_API void (luaL_register) (lua_State *L, const char *libname,$/;"	p	signature:(lua_State *L, const char *libname, const luaL_Reg *l)
+luaL_setn	lauxlib.h	/^LUALIB_API void (luaL_setn) (lua_State *L, int t, int n);$/;"	p	signature:(lua_State *L, int t, int n)
+luaL_setn	lauxlib.h	23;"	d
+luaL_typename	lauxlib.h	109;"	d
+luaL_typerror	lauxlib.h	/^LUALIB_API int (luaL_typerror) (lua_State *L, int narg, const char *tname);$/;"	p	signature:(lua_State *L, int narg, const char *tname)
+luaL_unref	lauxlib.h	/^LUALIB_API void (luaL_unref) (lua_State *L, int t, int ref);$/;"	p	signature:(lua_State *L, int t, int ref)
+luaL_where	lauxlib.h	/^LUALIB_API void (luaL_where) (lua_State *L, int lvl);$/;"	p	signature:(lua_State *L, int lvl)
+lua_Alloc	lua.h	/^typedef void * (*lua_Alloc) (void *ud, void *ptr, size_t osize, size_t nsize);$/;"	t
+lua_CFunction	lua.h	/^typedef int (*lua_CFunction) (lua_State *L);$/;"	t
+lua_Chunkreader	lua.h	293;"	d
+lua_Chunkwriter	lua.h	294;"	d
+lua_Debug	lua.h	/^struct lua_Debug {$/;"	s
+lua_Debug	lua.h	/^typedef struct lua_Debug lua_Debug;  \/* activation record *\/$/;"	t	typeref:struct:lua_Debug
+lua_Debug::currentline	lua.h	/^  int currentline;	\/* (l) *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::event	lua.h	/^  int event;$/;"	m	struct:lua_Debug	access:public
+lua_Debug::i_ci	lua.h	/^  int i_ci;  \/* active function *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::lastlinedefined	lua.h	/^  int lastlinedefined;	\/* (S) *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::linedefined	lua.h	/^  int linedefined;	\/* (S) *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::name	lua.h	/^  const char *name;	\/* (n) *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::namewhat	lua.h	/^  const char *namewhat;	\/* (n) `global', `local', `field', `method' *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::nups	lua.h	/^  int nups;		\/* (u) number of upvalues *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::short_src	lua.h	/^  char short_src[LUA_IDSIZE]; \/* (S) *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::source	lua.h	/^  const char *source;	\/* (S) *\/$/;"	m	struct:lua_Debug	access:public
+lua_Debug::what	lua.h	/^  const char *what;	\/* (S) `Lua', `C', `main', `tail' *\/$/;"	m	struct:lua_Debug	access:public
+lua_Hook	lua.h	/^typedef void (*lua_Hook) (lua_State *L, lua_Debug *ar);$/;"	t
+lua_Integer	lua.h	/^typedef LUA_INTEGER lua_Integer;$/;"	t
+lua_Number	lua.h	/^typedef LUA_NUMBER lua_Number;$/;"	t
+lua_Reader	lua.h	/^typedef const char * (*lua_Reader) (lua_State *L, void *ud, size_t *sz);$/;"	t
+lua_State	lua.h	/^typedef struct lua_State lua_State;$/;"	t	typeref:struct:lua_State
+lua_Writer	lua.h	/^typedef int (*lua_Writer) (lua_State *L, const void* p, size_t sz, void* ud);$/;"	t
+lua_assert	lualib.h	49;"	d
+lua_atpanic	lua.h	/^LUA_API lua_CFunction (lua_atpanic) (lua_State *L, lua_CFunction panicf);$/;"	p	signature:(lua_State *L, lua_CFunction panicf)
+lua_call	lua.h	/^LUA_API void  (lua_call) (lua_State *L, int nargs, int nresults);$/;"	p	signature:(lua_State *L, int nargs, int nresults)
+lua_checkstack	lua.h	/^LUA_API int   (lua_checkstack) (lua_State *L, int sz);$/;"	p	signature:(lua_State *L, int sz)
+lua_close	lua.h	/^LUA_API void       (lua_close) (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_concat	lua.h	/^LUA_API void  (lua_concat) (lua_State *L, int n);$/;"	p	signature:(lua_State *L, int n)
+lua_cpcall	lua.h	/^LUA_API int   (lua_cpcall) (lua_State *L, lua_CFunction func, void *ud);$/;"	p	signature:(lua_State *L, lua_CFunction func, void *ud)
+lua_createtable	lua.h	/^LUA_API void  (lua_createtable) (lua_State *L, int narr, int nrec);$/;"	p	signature:(lua_State *L, int narr, int nrec)
+lua_dump	lua.h	/^LUA_API int (lua_dump) (lua_State *L, lua_Writer writer, void *data);$/;"	p	signature:(lua_State *L, lua_Writer writer, void *data)
+lua_equal	lua.h	/^LUA_API int            (lua_equal) (lua_State *L, int idx1, int idx2);$/;"	p	signature:(lua_State *L, int idx1, int idx2)
+lua_error	lua.h	/^LUA_API int   (lua_error) (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_freeline	luaconf.h	292;"	d
+lua_freeline	luaconf.h	298;"	d
+lua_gc	lua.h	/^LUA_API int (lua_gc) (lua_State *L, int what, int data);$/;"	p	signature:(lua_State *L, int what, int data)
+lua_getallocf	lua.h	/^LUA_API lua_Alloc (lua_getallocf) (lua_State *L, void **ud);$/;"	p	signature:(lua_State *L, void **ud)
+lua_getfenv	lua.h	/^LUA_API void  (lua_getfenv) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_getfield	lua.h	/^LUA_API void  (lua_getfield) (lua_State *L, int idx, const char *k);$/;"	p	signature:(lua_State *L, int idx, const char *k)
+lua_getgccount	lua.h	291;"	d
+lua_getglobal	lua.h	277;"	d
+lua_gethook	lua.h	/^LUA_API lua_Hook lua_gethook (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_gethookcount	lua.h	/^LUA_API int lua_gethookcount (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_gethookmask	lua.h	/^LUA_API int lua_gethookmask (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_getinfo	lua.h	/^LUA_API int lua_getinfo (lua_State *L, const char *what, lua_Debug *ar);$/;"	p	signature:(lua_State *L, const char *what, lua_Debug *ar)
+lua_getlocal	lua.h	/^LUA_API const char *lua_getlocal (lua_State *L, const lua_Debug *ar, int n);$/;"	p	signature:(lua_State *L, const lua_Debug *ar, int n)
+lua_getmetatable	lua.h	/^LUA_API int   (lua_getmetatable) (lua_State *L, int objindex);$/;"	p	signature:(lua_State *L, int objindex)
+lua_getref	lauxlib.h	167;"	d
+lua_getregistry	lua.h	289;"	d
+lua_getstack	lua.h	/^LUA_API int lua_getstack (lua_State *L, int level, lua_Debug *ar);$/;"	p	signature:(lua_State *L, int level, lua_Debug *ar)
+lua_gettable	lua.h	/^LUA_API void  (lua_gettable) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_gettop	lua.h	/^LUA_API int   (lua_gettop) (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_getupvalue	lua.h	/^LUA_API const char *lua_getupvalue (lua_State *L, int funcindex, int n);$/;"	p	signature:(lua_State *L, int funcindex, int n)
+lua_h	lua.h	10;"	d
+lua_insert	lua.h	/^LUA_API void  (lua_insert) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_isboolean	lua.h	268;"	d
+lua_iscfunction	lua.h	/^LUA_API int             (lua_iscfunction) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_isfunction	lua.h	264;"	d
+lua_islightuserdata	lua.h	266;"	d
+lua_isnil	lua.h	267;"	d
+lua_isnone	lua.h	270;"	d
+lua_isnoneornil	lua.h	271;"	d
+lua_isnumber	lua.h	/^LUA_API int             (lua_isnumber) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_isstring	lua.h	/^LUA_API int             (lua_isstring) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_istable	lua.h	265;"	d
+lua_isthread	lua.h	269;"	d
+lua_isuserdata	lua.h	/^LUA_API int             (lua_isuserdata) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_lessthan	lua.h	/^LUA_API int            (lua_lessthan) (lua_State *L, int idx1, int idx2);$/;"	p	signature:(lua_State *L, int idx1, int idx2)
+lua_load	lua.h	/^LUA_API int   (lua_load) (lua_State *L, lua_Reader reader, void *dt,$/;"	p	signature:(lua_State *L, lua_Reader reader, void *dt, const char *chunkname)
+lua_newstate	lua.h	/^LUA_API lua_State *(lua_newstate) (lua_Alloc f, void *ud);$/;"	p	signature:(lua_Alloc f, void *ud)
+lua_newtable	lua.h	256;"	d
+lua_newthread	lua.h	/^LUA_API lua_State *(lua_newthread) (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_newuserdata	lua.h	/^LUA_API void *(lua_newuserdata) (lua_State *L, size_t sz);$/;"	p	signature:(lua_State *L, size_t sz)
+lua_next	lua.h	/^LUA_API int   (lua_next) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_number2int	luaconf.h	574;"	d
+lua_number2int	luaconf.h	582;"	d
+lua_number2int	luaconf.h	591;"	d
+lua_number2integer	luaconf.h	575;"	d
+lua_number2integer	luaconf.h	584;"	d
+lua_number2integer	luaconf.h	592;"	d
+lua_number2str	luaconf.h	534;"	d
+lua_objlen	lua.h	/^LUA_API size_t          (lua_objlen) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_open	lua.h	287;"	d
+lua_pcall	lua.h	/^LUA_API int   (lua_pcall) (lua_State *L, int nargs, int nresults, int errfunc);$/;"	p	signature:(lua_State *L, int nargs, int nresults, int errfunc)
+lua_pclose	luaconf.h	682;"	d
+lua_pclose	luaconf.h	687;"	d
+lua_pclose	luaconf.h	693;"	d
+lua_pop	lua.h	254;"	d
+lua_popen	luaconf.h	681;"	d
+lua_popen	luaconf.h	686;"	d
+lua_popen	luaconf.h	691;"	d
+lua_pushboolean	lua.h	/^LUA_API void  (lua_pushboolean) (lua_State *L, int b);$/;"	p	signature:(lua_State *L, int b)
+lua_pushcclosure	lua.h	/^LUA_API void  (lua_pushcclosure) (lua_State *L, lua_CFunction fn, int n);$/;"	p	signature:(lua_State *L, lua_CFunction fn, int n)
+lua_pushcfunction	lua.h	260;"	d
+lua_pushfstring	lua.h	/^LUA_API const char *(lua_pushfstring) (lua_State *L, const char *fmt, ...);$/;"	p	signature:(lua_State *L, const char *fmt, ...)
+lua_pushinteger	lua.h	/^LUA_API void  (lua_pushinteger) (lua_State *L, lua_Integer n);$/;"	p	signature:(lua_State *L, lua_Integer n)
+lua_pushlightuserdata	lua.h	/^LUA_API void  (lua_pushlightuserdata) (lua_State *L, void *p);$/;"	p	signature:(lua_State *L, void *p)
+lua_pushliteral	lua.h	273;"	d
+lua_pushlstring	lua.h	/^LUA_API void  (lua_pushlstring) (lua_State *L, const char *s, size_t l);$/;"	p	signature:(lua_State *L, const char *s, size_t l)
+lua_pushnil	lua.h	/^LUA_API void  (lua_pushnil) (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_pushnumber	lua.h	/^LUA_API void  (lua_pushnumber) (lua_State *L, lua_Number n);$/;"	p	signature:(lua_State *L, lua_Number n)
+lua_pushstring	lua.h	/^LUA_API void  (lua_pushstring) (lua_State *L, const char *s);$/;"	p	signature:(lua_State *L, const char *s)
+lua_pushthread	lua.h	/^LUA_API int   (lua_pushthread) (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_pushvalue	lua.h	/^LUA_API void  (lua_pushvalue) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_pushvfstring	lua.h	/^LUA_API const char *(lua_pushvfstring) (lua_State *L, const char *fmt,$/;"	p	signature:(lua_State *L, const char *fmt, va_list argp)
+lua_rawequal	lua.h	/^LUA_API int            (lua_rawequal) (lua_State *L, int idx1, int idx2);$/;"	p	signature:(lua_State *L, int idx1, int idx2)
+lua_rawget	lua.h	/^LUA_API void  (lua_rawget) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_rawgeti	lua.h	/^LUA_API void  (lua_rawgeti) (lua_State *L, int idx, int n);$/;"	p	signature:(lua_State *L, int idx, int n)
+lua_rawset	lua.h	/^LUA_API void  (lua_rawset) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_rawseti	lua.h	/^LUA_API void  (lua_rawseti) (lua_State *L, int idx, int n);$/;"	p	signature:(lua_State *L, int idx, int n)
+lua_readline	luaconf.h	288;"	d
+lua_readline	luaconf.h	294;"	d
+lua_ref	lauxlib.h	162;"	d
+lua_register	lua.h	258;"	d
+lua_remove	lua.h	/^LUA_API void  (lua_remove) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_replace	lua.h	/^LUA_API void  (lua_replace) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_resume	lua.h	/^LUA_API int  (lua_resume) (lua_State *L, int narg);$/;"	p	signature:(lua_State *L, int narg)
+lua_saveline	luaconf.h	289;"	d
+lua_saveline	luaconf.h	297;"	d
+lua_setallocf	lua.h	/^LUA_API void lua_setallocf (lua_State *L, lua_Alloc f, void *ud);$/;"	p	signature:(lua_State *L, lua_Alloc f, void *ud)
+lua_setfenv	lua.h	/^LUA_API int   (lua_setfenv) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_setfield	lua.h	/^LUA_API void  (lua_setfield) (lua_State *L, int idx, const char *k);$/;"	p	signature:(lua_State *L, int idx, const char *k)
+lua_setglobal	lua.h	276;"	d
+lua_sethook	lua.h	/^LUA_API int lua_sethook (lua_State *L, lua_Hook func, int mask, int count);$/;"	p	signature:(lua_State *L, lua_Hook func, int mask, int count)
+lua_setlevel	lua.h	/^LUA_API void lua_setlevel	(lua_State *from, lua_State *to);$/;"	p	signature:(lua_State *from, lua_State *to)
+lua_setlocal	lua.h	/^LUA_API const char *lua_setlocal (lua_State *L, const lua_Debug *ar, int n);$/;"	p	signature:(lua_State *L, const lua_Debug *ar, int n)
+lua_setmetatable	lua.h	/^LUA_API int   (lua_setmetatable) (lua_State *L, int objindex);$/;"	p	signature:(lua_State *L, int objindex)
+lua_settable	lua.h	/^LUA_API void  (lua_settable) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_settop	lua.h	/^LUA_API void  (lua_settop) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_setupvalue	lua.h	/^LUA_API const char *lua_setupvalue (lua_State *L, int funcindex, int n);$/;"	p	signature:(lua_State *L, int funcindex, int n)
+lua_status	lua.h	/^LUA_API int  (lua_status) (lua_State *L);$/;"	p	signature:(lua_State *L)
+lua_stdin_is_tty	luaconf.h	240;"	d
+lua_stdin_is_tty	luaconf.h	244;"	d
+lua_stdin_is_tty	luaconf.h	246;"	d
+lua_str2number	luaconf.h	536;"	d
+lua_strlen	lua.h	262;"	d
+lua_tmpnam	luaconf.h	660;"	d
+lua_tmpnam	luaconf.h	668;"	d
+lua_toboolean	lua.h	/^LUA_API int             (lua_toboolean) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_tocfunction	lua.h	/^LUA_API lua_CFunction   (lua_tocfunction) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_tointeger	lua.h	/^LUA_API lua_Integer     (lua_tointeger) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_tolstring	lua.h	/^LUA_API const char     *(lua_tolstring) (lua_State *L, int idx, size_t *len);$/;"	p	signature:(lua_State *L, int idx, size_t *len)
+lua_tonumber	lua.h	/^LUA_API lua_Number      (lua_tonumber) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_topointer	lua.h	/^LUA_API const void     *(lua_topointer) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_tostring	lua.h	279;"	d
+lua_tothread	lua.h	/^LUA_API lua_State      *(lua_tothread) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_touserdata	lua.h	/^LUA_API void	       *(lua_touserdata) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_type	lua.h	/^LUA_API int             (lua_type) (lua_State *L, int idx);$/;"	p	signature:(lua_State *L, int idx)
+lua_typename	lua.h	/^LUA_API const char     *(lua_typename) (lua_State *L, int tp);$/;"	p	signature:(lua_State *L, int tp)
+lua_unref	lauxlib.h	165;"	d
+lua_upvalueindex	lua.h	39;"	d
+lua_xmove	lua.h	/^LUA_API void  (lua_xmove) (lua_State *from, lua_State *to, int n);$/;"	p	signature:(lua_State *from, lua_State *to, int n)
+lua_yield	lua.h	/^LUA_API int  (lua_yield) (lua_State *L, int nresults);$/;"	p	signature:(lua_State *L, int nresults)
+luai_Cast	luaconf.h	/^union luai_Cast { double l_d; long l_l; };$/;"	u
+luai_Cast::l_d	luaconf.h	/^union luai_Cast { double l_d; long l_l; };$/;"	m	union:luai_Cast	access:public
+luai_Cast::l_l	luaconf.h	/^union luai_Cast { double l_d; long l_l; };$/;"	m	union:luai_Cast	access:public
+luai_apicheck	luaconf.h	390;"	d
+luai_apicheck	luaconf.h	392;"	d
+luai_jmpbuf	luaconf.h	622;"	d
+luai_jmpbuf	luaconf.h	628;"	d
+luai_jmpbuf	luaconf.h	634;"	d
+luai_numadd	luaconf.h	544;"	d
+luai_numdiv	luaconf.h	547;"	d
+luai_numeq	luaconf.h	551;"	d
+luai_numisnan	luaconf.h	554;"	d
+luai_numle	luaconf.h	553;"	d
+luai_numlt	luaconf.h	552;"	d
+luai_nummod	luaconf.h	548;"	d
+luai_nummul	luaconf.h	546;"	d
+luai_numpow	luaconf.h	549;"	d
+luai_numsub	luaconf.h	545;"	d
+luai_numunm	luaconf.h	550;"	d
+luai_userstateclose	luaconf.h	735;"	d
+luai_userstatefree	luaconf.h	737;"	d
+luai_userstateopen	luaconf.h	734;"	d
+luai_userstateresume	luaconf.h	738;"	d
+luai_userstatethread	luaconf.h	736;"	d
+luai_userstateyield	luaconf.h	739;"	d
+lualib_h	lualib.h	9;"	d
+luaopen_base	lualib.h	/^LUALIB_API int (luaopen_base) (lua_State *L);$/;"	p	signature:(lua_State *L)
+luaopen_debug	lualib.h	/^LUALIB_API int (luaopen_debug) (lua_State *L);$/;"	p	signature:(lua_State *L)
+luaopen_io	lualib.h	/^LUALIB_API int (luaopen_io) (lua_State *L);$/;"	p	signature:(lua_State *L)
+luaopen_math	lualib.h	/^LUALIB_API int (luaopen_math) (lua_State *L);$/;"	p	signature:(lua_State *L)
+luaopen_os	lualib.h	/^LUALIB_API int (luaopen_os) (lua_State *L);$/;"	p	signature:(lua_State *L)
+luaopen_package	lualib.h	/^LUALIB_API int (luaopen_package) (lua_State *L);$/;"	p	signature:(lua_State *L)
+luaopen_string	lualib.h	/^LUALIB_API int (luaopen_string) (lua_State *L);$/;"	p	signature:(lua_State *L)
+luaopen_table	lualib.h	/^LUALIB_API int (luaopen_table) (lua_State *L);$/;"	p	signature:(lua_State *L)
+lvl	lauxlib.h	/^  int lvl;  \/* number of strings in the stack (level) *\/$/;"	m	struct:luaL_Buffer	access:public
+name	lauxlib.h	/^  const char *name;$/;"	m	struct:luaL_Reg	access:public
+name	lua.h	/^  const char *name;	\/* (n) *\/$/;"	m	struct:lua_Debug	access:public
+namewhat	lua.h	/^  const char *namewhat;	\/* (n) `global', `local', `field', `method' *\/$/;"	m	struct:lua_Debug	access:public
+nups	lua.h	/^  int nups;		\/* (u) number of upvalues *\/$/;"	m	struct:lua_Debug	access:public
+p	lauxlib.h	/^  char *p;			\/* current position in buffer *\/$/;"	m	struct:luaL_Buffer	access:public
+short_src	lua.h	/^  char short_src[LUA_IDSIZE]; \/* (S) *\/$/;"	m	struct:lua_Debug	access:public
+source	lua.h	/^  const char *source;	\/* (S) *\/$/;"	m	struct:lua_Debug	access:public
+what	lua.h	/^  const char *what;	\/* (S) `Lua', `C', `main', `tail' *\/$/;"	m	struct:lua_Debug	access:public
